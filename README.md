@@ -1,5 +1,3 @@
-
-@@ -1,34 +1,32 @@
 <h1 align="center">Hi 👋, I'm Ankit Raj </h1>
 <h3 align="center">Aspiring Data Scientist.</h3>
 
