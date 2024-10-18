@@ -1,5 +1,5 @@
-- Hi 👋 I'm Ankit Raj 👋 
-- Aspiring Data Scientist.
+ Hi 👋 I'm Ankit Raj 👋 
+ Aspiring Data Scientist.
 Coding
 
 @rajankit507
@@ -14,7 +14,17 @@ Coding
 
 📄 Know about my experiences Linkedin
 
+Connect with me:
+rajankit507
 
+Languages and Tools:
+aws git powerbi mongodb mysql pandas postgresql python pytorch scikit_learn seaborn tensorflow
+
+rajankit507
+
+ rajankit507
+
+rajankit507
 
 <!---
 rajankit507/rajankit507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
